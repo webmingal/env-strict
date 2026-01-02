@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # env-strict
 =======
 # env-strict
@@ -117,4 +117,3 @@ try {
 ## License
 
 MIT
->>>>>>> ec48ba8 (Initial commit: env-strict core implementation)
